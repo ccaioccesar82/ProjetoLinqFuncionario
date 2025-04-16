@@ -1,0 +1,14 @@
+C:\Users\Caio Correia\Desktop\PrimeiroProjeto\ProjetoLinqFuncionario\ProjetoLinqFuncionario\obj\Debug\net8.0\ProjetoLinqFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Correia\Desktop\PrimeiroProjeto\ProjetoLinqFuncionario\ProjetoLinqFuncionario\obj\Debug\net8.0\ProjetoLinqFuncionario.AssemblyInfoInputs.cache
+C:\Users\Caio Correia\Desktop\PrimeiroProjeto\ProjetoLinqFuncionario\ProjetoLinqFuncionario\obj\Debug\net8.0\ProjetoLinqFuncionario.AssemblyInfo.cs
+C:\Users\Caio Correia\Desktop\PrimeiroProjeto\ProjetoLinqFuncionario\ProjetoLinqFuncionario\obj\Debug\net8.0\ProjetoLinqFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Caio Correia\Desktop\PrimeiroProjeto\ProjetoLinqFuncionario\ProjetoLinqFuncionario\bin\Debug\net8.0\ProjetoLinqFuncionario.exe
+C:\Users\Caio Correia\Desktop\PrimeiroProjeto\ProjetoLinqFuncionario\ProjetoLinqFuncionario\bin\Debug\net8.0\ProjetoLinqFuncionario.deps.json
+C:\Users\Caio Correia\Desktop\PrimeiroProjeto\ProjetoLinqFuncionario\ProjetoLinqFuncionario\bin\Debug\net8.0\ProjetoLinqFuncionario.runtimeconfig.json
+C:\Users\Caio Correia\Desktop\PrimeiroProjeto\ProjetoLinqFuncionario\ProjetoLinqFuncionario\bin\Debug\net8.0\ProjetoLinqFuncionario.dll
+C:\Users\Caio Correia\Desktop\PrimeiroProjeto\ProjetoLinqFuncionario\ProjetoLinqFuncionario\bin\Debug\net8.0\ProjetoLinqFuncionario.pdb
+C:\Users\Caio Correia\Desktop\PrimeiroProjeto\ProjetoLinqFuncionario\ProjetoLinqFuncionario\obj\Debug\net8.0\ProjetoLinqFuncionario.dll
+C:\Users\Caio Correia\Desktop\PrimeiroProjeto\ProjetoLinqFuncionario\ProjetoLinqFuncionario\obj\Debug\net8.0\refint\ProjetoLinqFuncionario.dll
+C:\Users\Caio Correia\Desktop\PrimeiroProjeto\ProjetoLinqFuncionario\ProjetoLinqFuncionario\obj\Debug\net8.0\ProjetoLinqFuncionario.pdb
+C:\Users\Caio Correia\Desktop\PrimeiroProjeto\ProjetoLinqFuncionario\ProjetoLinqFuncionario\obj\Debug\net8.0\ProjetoLinqFuncionario.genruntimeconfig.cache
+C:\Users\Caio Correia\Desktop\PrimeiroProjeto\ProjetoLinqFuncionario\ProjetoLinqFuncionario\obj\Debug\net8.0\ref\ProjetoLinqFuncionario.dll
